@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springbootactuator/springbootactuator.iml" filepath="$PROJECT_DIR$/springbootactuator/springbootactuator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootactuatorserver/springbootactuatorserver.iml" filepath="$PROJECT_DIR$/springbootactuatorserver/springbootactuatorserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootexcepionandjunit/springbootexcepionandjunit.iml" filepath="$PROJECT_DIR$/springbootexcepionandjunit/springbootexcepionandjunit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootfileupload/springbootfileupload.iml" filepath="$PROJECT_DIR$/springbootfileupload/springbootfileupload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootfreemarker/springbootfreemarker.iml" filepath="$PROJECT_DIR$/springbootfreemarker/springbootfreemarker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboothelloworld/springboothelloworld.iml" filepath="$PROJECT_DIR$/springboothelloworld/springboothelloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootjdbc/springbootjdbc.iml" filepath="$PROJECT_DIR$/springbootjdbc/springbootjdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootjsp/springbootjsp.iml" filepath="$PROJECT_DIR$/springbootjsp/springbootjsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootlogback/springbootlogback.iml" filepath="$PROJECT_DIR$/springbootlogback/springbootlogback.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootmybatis/springbootmybatis.iml" filepath="$PROJECT_DIR$/springbootmybatis/springbootmybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootthymeleaf/springbootthymeleaf.iml" filepath="$PROJECT_DIR$/springbootthymeleaf/springbootthymeleaf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootvalidate/springbootvalidate.iml" filepath="$PROJECT_DIR$/springbootvalidate/springbootvalidate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootweb/springbootweb.iml" filepath="$PROJECT_DIR$/springbootweb/springbootweb.iml" />
+    </modules>
+  </component>
+</project>

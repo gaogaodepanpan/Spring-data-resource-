@@ -1,0 +1,60 @@
+2019-11-21 15:16:17.982 [main] INFO  c.b.springbootlogback.SpringbootlogbackApplication - Starting SpringbootlogbackApplication on MS-20180314VZHE with PID 10572 (D:\springboot-workspace\springbootlogback\target\classes started by Administrator in D:\springboot-workspace)
+2019-11-21 15:16:17.984 [main] INFO  c.b.springbootlogback.SpringbootlogbackApplication - No active profile set, falling back to default profiles: default
+2019-11-21 15:16:18.578 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2019-11-21 15:16:18.584 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-11-21 15:16:18.585 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-11-21 15:16:18.585 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-11-21 15:16:18.667 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-11-21 15:16:18.668 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 653 ms
+2019-11-21 15:16:18.781 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-11-21 15:16:18.874 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2019-11-21 15:16:18.892 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2019-11-21 15:16:18.895 [main] INFO  c.b.springbootlogback.SpringbootlogbackApplication - Started SpringbootlogbackApplication in 1.119 seconds (JVM running for 3.752)
+2019-11-21 15:16:50.157 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-11-21 15:16:50.158 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-11-21 15:16:50.163 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+2019-11-21 15:16:50.181 [http-nio-8080-exec-1] INFO  com.bjsxt.springbootlogback.HelloController - 记录日志
+2019-11-21 15:19:37.509 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2019-11-21 15:19:37.517 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-11-21 15:19:37.517 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-11-21 15:19:37.517 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-11-21 15:19:37.603 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-11-21 15:19:37.603 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 725 ms
+2019-11-21 15:19:37.719 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-11-21 15:19:37.812 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2019-11-21 15:19:37.831 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2019-11-21 15:19:46.894 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-11-21 15:19:46.894 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-11-21 15:19:46.897 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+2019-11-21 15:20:16.137 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2019-11-21 15:20:16.145 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-11-21 15:20:16.146 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-11-21 15:20:16.146 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-11-21 15:20:16.238 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-11-21 15:20:16.239 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 788 ms
+2019-11-21 15:20:16.373 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-11-21 15:20:16.486 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2019-11-21 15:20:16.503 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2019-11-21 15:20:20.485 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-11-21 15:20:20.485 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-11-21 15:20:20.489 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+2019-11-21 15:20:45.408 [main] INFO  c.b.springbootlogback.SpringbootlogbackApplication - Starting SpringbootlogbackApplication on MS-20180314VZHE with PID 8896 (D:\springboot-workspace\springbootlogback\target\classes started by Administrator in D:\springboot-workspace)
+2019-11-21 15:20:45.410 [main] INFO  c.b.springbootlogback.SpringbootlogbackApplication - No active profile set, falling back to default profiles: default
+2019-11-21 15:20:46.294 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2019-11-21 15:20:46.301 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-11-21 15:20:46.302 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-11-21 15:20:46.302 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-11-21 15:20:46.385 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-11-21 15:20:46.385 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 945 ms
+2019-11-21 15:20:46.500 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-11-21 15:20:46.594 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2019-11-21 15:20:46.611 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2019-11-21 15:20:46.614 [main] INFO  c.b.springbootlogback.SpringbootlogbackApplication - Started SpringbootlogbackApplication in 1.614 seconds (JVM running for 2.293)
+2019-11-21 15:21:05.726 [main] INFO  c.b.springbootlogback.SpringbootlogbackApplication - Starting SpringbootlogbackApplication on MS-20180314VZHE with PID 6800 (D:\springboot-workspace\springbootlogback\target\classes started by Administrator in D:\springboot-workspace)
+2019-11-21 15:21:05.727 [main] INFO  c.b.springbootlogback.SpringbootlogbackApplication - No active profile set, falling back to default profiles: default
+2019-11-21 15:21:07.012 [main] INFO  c.b.springbootlogback.SpringbootlogbackApplication - Started SpringbootlogbackApplication in 1.743 seconds (JVM running for 2.518)
+2019-11-21 15:53:44.835 [http-nio-8080-exec-1] INFO  com.bjsxt.springbootlogback.HelloController - 记录日志
+2019-11-21 15:53:45.621 [http-nio-8080-exec-2] INFO  com.bjsxt.springbootlogback.HelloController - 记录日志
+2019-11-21 15:53:46.204 [http-nio-8080-exec-3] INFO  com.bjsxt.springbootlogback.HelloController - 记录日志
+2019-11-21 15:53:52.801 [http-nio-8080-exec-6] INFO  com.bjsxt.springbootlogback.HelloController - 记录日志
+2019-11-21 15:54:03.662 [http-nio-8080-exec-10] INFO  com.bjsxt.springbootlogback.HelloController - 记录日志
